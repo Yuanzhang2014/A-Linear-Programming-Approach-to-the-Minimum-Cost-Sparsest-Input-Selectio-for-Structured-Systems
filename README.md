@@ -22,3 +22,8 @@ Input: [As,Bs] is the sparsity pattern of the structured systems; k is the upper
 Output: the selected input links in the optimal solution. 
 
 See the example of Yuan Zhang, et.al  A Linear Programming Approach to the Minimum Cost Sparsest Input Selectio for Structured Systems.
+
+Function description for findsourceSCC.m: 
+input: the transpose of As; 
+
+output: [C,r], C is the set of vertices of source strongly-connected components (SCC), and r is the number of source SCCs.  
