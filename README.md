@@ -1,4 +1,4 @@
-# A-Linear-Programming-Approach-to-the-Minimum-Cost-Sparsest-Input-Selectio-for-Structured-Systems
+# A Linear Programming Approach to the Minimum Cost Sparsest Input Selection for Structured Systems
 Matlab Code for the article: Yuan Zhang, et.al,  A Linear Programming Approach to the Minimum Cost Sparsest Input Selectio for Structured Systems, arXiv e-prints (2021): arXiv-2108.
 
 
