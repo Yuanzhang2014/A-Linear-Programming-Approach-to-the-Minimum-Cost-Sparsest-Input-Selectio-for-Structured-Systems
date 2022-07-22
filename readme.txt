@@ -21,3 +21,8 @@ Input: [As,Bs] is the sparsity pattern of the structured systems; k is the upper
 Output: the selected input links in the optimal solution. 
 
 See the example of Yuan Zhang, et.al  A Linear Programming Approach to the Minimum Cost Sparsest Input Selectio for Structured Systems.
+
+function description for Not_TU_polytope_not_integral_Example_1.m:
+
+This is the code of Example 1 in the revised version of Total Unimodularity and Strongly Polynomial Solvability of Constrained Minimum Input
+Selections for Structural Controllability: an LP-based Method, under view in IEEE TAC. In this example, we provide an example showing that without Assumption 3, the defined polytope P_rel may not be integral. 
