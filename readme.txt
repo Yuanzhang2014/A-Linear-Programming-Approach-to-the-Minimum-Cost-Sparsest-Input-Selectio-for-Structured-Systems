@@ -25,4 +25,4 @@ See the example of Yuan Zhang, et.al  A Linear Programming Approach to the Minim
 function description for Not_TU_polytope_not_integral_Example_1.m:
 
 This is the code of Example 1 in the revised version of Total Unimodularity and Strongly Polynomial Solvability of Constrained Minimum Input
-Selections for Structural Controllability: an LP-based Method, under view in IEEE TAC. In this example, we provide an example showing that without Assumption 3, the defined polytope P_rel may not be integral. 
+Selections for Structural Controllability: an LP-based Method, under view in IEEE TAC. In this example, we provide an example showing that without Assumption 3, the defined polytope P_rel may not be integral. The involved M is $\Delta$-UM for some $\Delta>=3$.
